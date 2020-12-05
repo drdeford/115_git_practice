@@ -8,3 +8,7 @@ This goes along with the directions on blackboard.
   </ul>
   
   * This is a list item in MarkDown
+  
+  
+  Here is an image about sharks: 
+<img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/Senate_Hist.png">
