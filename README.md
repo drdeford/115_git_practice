@@ -11,4 +11,12 @@ This goes along with the directions on blackboard.
   
   
   Here is an image about sharks: 
-<img src="https://raw.githubusercontent.com/drdeford/DATA115_PDP1/main/Figures/Senate_Hist.png">
+  <table>
+  <tr><td>
+<img src="https://raw.githubusercontent.com/drdeford/115_git_practice/master/shark_image.png">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/drdeford/115_git_practice/master/shark2.png">
+    </td>
+  </tr>
+  </table>
