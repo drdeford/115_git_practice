@@ -10,7 +10,8 @@ This goes along with the directions on blackboard.
   * This is a list item in MarkDown
   
   
-  Here is an image about sharks: 
+  Here are two ways to include images: 
+  
   <table>
   <tr><td>
 <img src="https://raw.githubusercontent.com/drdeford/115_git_practice/master/shark_image.png">
