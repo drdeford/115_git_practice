@@ -22,5 +22,9 @@ This goes along with the directions on blackboard.
   </tr>
   </table>
 
+![link to image](https://raw.githubusercontent.com/drdeford/115_git_practice/master/shark2.png)
+
 
 [link to image](https://raw.githubusercontent.com/drdeford/115_git_practice/master/shark2.png)
+
+
